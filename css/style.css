@@ -8727,6 +8727,11 @@ h1, h2, h3, h4, h5,
     margin-bottom: 30px;
     color: #fe7f2d; }
 
+.icon-logo {
+  width: 100px;
+  height: 100px;
+}
+
 .resume-wrap {
   width: 100%;
   margin-bottom: 30px;
