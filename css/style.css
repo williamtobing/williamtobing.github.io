@@ -8376,7 +8376,7 @@ h1, h2, h3, h4, h5,
   .navbar-brand:after {
     position: absolute;
     top: 50%;
-    left: -7px;
+    left: -6px;
     width: 40px;
     height: 40px;
     content: '';
@@ -8388,7 +8388,7 @@ h1, h2, h3, h4, h5,
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%; }
+    border-radius: 10%; }
   .navbar-brand span {
     color: #fff; }
 
