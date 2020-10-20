@@ -5422,6 +5422,26 @@ button.bg-dark:focus {
 .bg-transparent {
   background-color: transparent !important; }
 
+.bg-grey {
+  background-color: #f7f7f9 !important;
+}
+
+.bg-orange {
+  background-color: #fff2e9 !important;
+}
+
+.bg-section {
+  background-image: url(https://res.cloudinary.com/dox0nkwax/image/upload/v1603201958/bg_white_sdab5a.svg);
+}
+
+.bg-section-parallax {
+  background-image: url(https://res.cloudinary.com/dox0nkwax/image/upload/v1603201958/bg_white_sdab5a.svg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .border {
   border: 1px solid #dee2e6 !important; }
 
@@ -8142,7 +8162,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #011627; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8505,7 +8525,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #fff2e9;
+    /* background: #fff2e9; */
+    background: transparent;
     z-index: -1;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
