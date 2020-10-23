@@ -12,6 +12,9 @@
 	   } else {
 		   trans()
 		   document.documentElement.setAttribute('data-theme', 'light')
+		   document.querySelectorAll('.inverted').forEach((result) => {
+			   result.classList.toggle('invert');
+		   })
 	   }
    })
 
