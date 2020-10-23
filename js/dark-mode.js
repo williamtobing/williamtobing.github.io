@@ -6,6 +6,9 @@
 	   if(this.checked) {
 		   trans()
 		   document.documentElement.setAttribute('data-theme', 'dark')
+		   document.querySelectorAll('.inverted').forEach((result) => {
+			   result.classList.toggle('invert');
+		   })
 	   } else {
 		   trans()
 		   document.documentElement.setAttribute('data-theme', 'light')
