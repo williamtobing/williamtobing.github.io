@@ -10,22 +10,9 @@ Just like any other usual software developers.
 
 #### Following are usual ways to connect with me:
 
-[<img align="left" alt="williamtobing | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="williamtobing | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="williamtobing | Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
-
-#### Languages and tools I usually use:
-
-<img align="left" alt="html5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="css3" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="bootstrap" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="react" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="node-dot-js" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" alt="visualstudiocode" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="jetbrains" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />
+[<img align="left" alt="williamtobing | LinkedIn" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064107/README.md%20svg/linkedin_s64hlu.svg" />][linkedin]
+[<img align="left" alt="williamtobing | Instagram" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064107/README.md%20svg/instagram_sxjj53.svg" />][instagram]
+[<img align="left" alt="williamtobing | Website" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064190/README.md%20svg/world-wide-web_lwlcqd.svg" />][website]
 
 <br />
 
