@@ -32,6 +32,16 @@
     "Liberation Mono", "Courier New", monospace;
 }
 
+/* SELECTION */
+::selection {
+  background-color: #f56200; /* WebKit/Blink Browsers */
+  color: white;
+}
+::-moz-selection {
+  background-color: #f56200; /* Gecko Browsers */
+  color: white;
+}
+
 *,
 *::before,
 *::after {
